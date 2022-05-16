@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 100" style="enable-background:new 0 0 200 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000105410762398454330470000012622758907296284087_);}
+	.st1{clip-path:url(#SVGID_00000168108557627716948260000016316706831443097504_);}
+	.st2{stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="0,100 200,100 200,0 0,0 0,97 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;"/>
+		<clipPath id="SVGID_00000124135719844270434480000013969420851590094751_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000124135719844270434480000013969420851590094751_);">
+			<defs>
+				<polygon id="SVGID_00000010306855813203178410000014058283132340325530_" points="0,100 200,100 200,0 0,0 0,97 				"/>
+			</defs>
+			
+				<use xlink:href="#SVGID_00000010306855813203178410000014058283132340325530_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;"/>
+			<clipPath id="SVGID_00000158002220972842501460000003755765442698906253_">
+				<use xlink:href="#SVGID_00000010306855813203178410000014058283132340325530_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000158002220972842501460000003755765442698906253_);">
+				<defs>
+					<polygon id="SVGID_00000112608266651776790050000006409823819316692882_" points="0,100 200,100 200,0 0,0 0,97 					"/>
+				</defs>
+				
+					<use xlink:href="#SVGID_00000112608266651776790050000006409823819316692882_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;"/>
+				<clipPath id="SVGID_00000166675070612930464360000009822149393822990261_">
+					<use xlink:href="#SVGID_00000112608266651776790050000006409823819316692882_"  style="overflow:visible;"/>
+				</clipPath>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st2" x1="96.9" y1="76.2" x2="162.6" y2="76.2"/>
+	<line class="st2" x1="35.3" y1="83.4" x2="101" y2="83.4"/>
+	<polygon class="st2" points="30.8,16.6 169.2,16.6 169.2,68 30.8,68 30.8,16.6 	"/>
+</g>
+</svg>
